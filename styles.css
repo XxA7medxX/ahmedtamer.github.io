@@ -1,0 +1,40 @@
+/* General Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Container */
+.container {
+    text-align: center;
+}
+
+/* Text Styles */
+h1 {
+    font-size: 3em;
+    margin: 0.2em 0;
+}
+
+.name {
+    font-size: 4em;
+    font-weight: bold;
+}
+
+p.role {
+    font-size: 1.5em;
+    color: #0099cc;
+    margin-top: 0.5em;
+}
+
+/* Profile Picture */
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 1em;
+}
